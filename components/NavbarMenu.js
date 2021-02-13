@@ -10,13 +10,13 @@ const NavBarMenu = () => {
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mr-auto">
                     
-                        <Link href="/list">
-                            Listagem de pacientes
-                        </Link>
-                    
-                        <Link href="/create">
-                            Cadastrar paciente
-                        </Link>
+                    <Link href="/list">
+                        Listagem de pacientes
+                    </Link>
+                
+                    <Link href="/create">
+                        Cadastrar paciente
+                    </Link>
                     
                     
                 </Nav>
